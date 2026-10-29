@@ -3,7 +3,7 @@ A Retro Futuristic wrist watch inspired from nixie tube wrist watch.
 
 # CAD 
 
-The link to onchape file :
+The link to onshape file :
 
 ```bash
 https://cad.onshape.com/documents/2ff11cee5ddfbc3f83090756/w/65dea8c705ea60074a3121a2/e/956382457094d7dfe0466492?renderMode=0&uiState=6ae2dc71c6980aea61bdc922
